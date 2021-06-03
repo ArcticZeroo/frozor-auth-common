@@ -1,0 +1,21 @@
+{
+  "name": "@arcticzeroo/frozor-auth-common",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^15.0.2",
+    "@types/node-fetch": "^2.5.10",
+    "typescript": "^4.2.4"
+  },
+  "dependencies": {
+    "@arcticzeroo/typeguard": "^1.0.0",
+    "node-fetch": "^2.6.1"
+  }
+}
